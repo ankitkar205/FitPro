@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Fit_Pro</string>
+    <string name="welcome_message">Welcome to Fit_Pro!</string>
+    <string name="steps">Steps</string>
+    <string name="calories">Calories</string>
+    <string name="workout">Workout</string>
+    <string name="water">Water</string>
+    <string name="name">Name</string>
+    <string name="age">Age</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="weight_in_kg">Weight (kg)</string>
+    <string name="save">Save</string>
+    <string name="bmi_calculator">BMI Calculator</string>
+    <string name="height_in_cm">Height (cm)</string>
+    <string name="calculate">Calculate</string>
+    <string name="calorie_tracker">Calorie Tracker</string>
+    <string name="food_name">Food Name</string>
+    <string name="add_food">Add Food</string>
+    <string name="heart_rate_monitor">Heart Rate Monitor</string>
+    <string name="start_monitoring">Start Monitoring</string>
+    <string name="stop_monitoring">Stop Monitoring</string>
+    <string name="sleep_tracking">Sleep Tracking</string>
+    <string name="sleep_hours_tracked">Sleep Hours: -- hrs</string>
+    <string name="set_sleep_goal">Set Sleep Goal</string>
+    <string name="enter_sleep_hours">Enter Sleep Hours</string>
+    <string name="log_sleep">Log Sleep</string>
+    <string name="sleep_goal">Sleep Goal: — hrs</string>
+    <string name="enter_sleep_goal">Enter Sleep Goal</string>
+    <string name="step_counter">Step Counter</string>
+    <string name="steps_count_placeholder">0</string>
+    <string name="reset_steps">Reset Steps</string>
+    <string name="water_intake">Water Intake</string>
+    <string name="water_consumed_placeholder">Water Consumed: 0 ml</string>
+    <string name="enter_water_amount_ml">Enter Water Amount (ml)</string>
+    <string name="add_water">Add Water</string>
+    <string name="water_goal">Water Goal: — ml</string>
+    <string name="enter_water_goal_ml">Enter Water Goal (ml)</string>
+    <string name="workout_logger">Workout Logger</string>
+    <string name="exercise_name">Exercise Name</string>
+    <string name="duration_minutes">Duration (minutes)</string>
+    <string name="log_workout">Log Workout</string>
+    <string name="user_info">User</string>
+    <string name="user_information">User Information</string>
+    <string name ="open_tracker">Open</string>
+    <string name ="no_data">No Data</string>
+    <string name ="recent_sleep">Sleep</string>
+    <string name="calculate_bmi">BMI</string>
+    <string name="heart_rate_reading">Heart Rate: %d bpm</string>
+
+
+</resources>
