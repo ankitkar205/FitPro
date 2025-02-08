@@ -1,6 +1,8 @@
 # 🏋️ FitPro – Health & Fitness Tracking App
 
-![FitPro Banner]([https://your-image-url.com/banner.png](https://mir-s3-cdn-cf.behance.net/project_modules/fs/218fc872735831.5bf1e45999c40.gif)) <!-- Replace with actual image URL -->
+![FitPro Banner]
+
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/218fc872735831.5bf1e45999c40.gif">
 
 ## 📖 Overview
 **FitPro** is a user-friendly **Android fitness tracking app** that helps users **monitor** their **steps, calories, workout sessions, water intake, sleep tracking, and BMI calculation**. The app enables users to store their **personal information** and ensures **data persistence** for better fitness tracking.
