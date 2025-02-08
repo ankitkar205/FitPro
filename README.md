@@ -20,7 +20,7 @@
 
 ## 📲 Screenshots
 <!-- Add image URLs or upload screenshots -->
-<img src="https://your-image-url.com/screenshot1.png" width="250"> <img src="https://your-image-url.com/screenshot2.png" width="250">  
+<img src="Screenshot 2025-02-08 135200.png" width="250"> <img src="Screenshot 2025-02-08 133857.png" width="250">  
 
 ## 🏗️ Tech Stack
 - **Programming Language:** Java  
